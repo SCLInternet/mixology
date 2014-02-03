@@ -28,22 +28,6 @@ class ListIngredientsUCSpec extends ObjectBehavior
         $this->executeRequest()->shouldReturnAnInstanceOf('Play\UseCase\ListIngredientsResponse');
     }
 
-    public function it_fetches_ingredients()
-    {
-        $this->executeRequest();
-        $this->getAllIngredients()->shouldHaveBeenCalled();
-    }
-
-    public function it_returns_an_ingredient(Ingredient $ingredient)
-    {
-        $this->getAllIngredients()->willReturn([$ingredient]);
-        $ingredient->getName()->willReturn('rum');
-
-        $response = $this->executeRequest();
-
-        $response->getIngredients()->shouldReturn([['name' => 'rum']]);
-    }
-
     public function it_returns_two_ingredients(Ingredient $ingredient1, Ingredient $ingredient2)
     {
         $this->getAllIngredients()->willReturn([$ingredient1, $ingredient2]);
@@ -53,14 +37,6 @@ class ListIngredientsUCSpec extends ObjectBehavior
         $response = $this->executeRequest();
 
         $response->getIngredients()->shouldReturn([['name' => 'rum'], ['name' => 'gin']]);
-    }
-
-    public function it_returns_count(Ingredient $ingredient1, Ingredient $ingredient2)
-    {
-        $this->getAllIngredients()->willReturn([$ingredient1, $ingredient2]);
-
-        $response = $this->executeRequest();
-
         $response->getCount()->shouldReturn(2);
     }
 

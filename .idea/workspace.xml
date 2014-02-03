@@ -28,10 +28,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="ListIngredientsUCSpec.php" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="ListIngredientsUCSpec.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="-5.625" vertical-offset="45" max-vertical-offset="1350">
+                <state line="21" column="45" selection-start="552" selection-end="552" vertical-scroll-proportion="0.30268595" vertical-offset="22" max-vertical-offset="990">
                   <folding>
                     <element signature="e#37#64#0" expanded="true" />
                   </folding>
@@ -109,16 +109,16 @@
           <file leaf-file-name="ListIngredientsResponse.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsResponse.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="34" selection-start="487" selection-end="487" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="540">
+                <state line="15" column="32" selection-start="196" selection-end="196" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="540">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="CreateIngredientResponse.php" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="CreateIngredientResponse.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientResponse.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.30991736" vertical-offset="0" max-vertical-offset="968">
+                <state line="25" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
                   <folding />
                 </state>
               </provider>
@@ -131,7 +131,7 @@
           <file leaf-file-name="ListIngredientsUCSpec.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="5" selection-start="694" selection-end="694" vertical-scroll-proportion="-6.8333335" vertical-offset="226" max-vertical-offset="1350">
+                <state line="26" column="5" selection-start="694" selection-end="694" vertical-scroll-proportion="-6.8333335" vertical-offset="226" max-vertical-offset="990">
                   <folding>
                     <element signature="e#37#64#0" expanded="true" />
                   </folding>
@@ -198,7 +198,6 @@
         <option value="$PROJECT_DIR$/src/Play/MockDB/Entity/MockIngredient.php" />
         <option value="$PROJECT_DIR$/src/Play/Repository/IngredientRepository.php" />
         <option value="$PROJECT_DIR$/src/Play/UseCase/ListIngredientsUC.php" />
-        <option value="$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php" />
         <option value="$PROJECT_DIR$/src/Play/UseCase/ListIngredientsResponse.php" />
         <option value="$PROJECT_DIR$/src/Play/UseCase/ListIngredientsRequest.php" />
         <option value="$PROJECT_DIR$/spec/Play/UseCase/UseCaseFactorySpec.php" />
@@ -207,6 +206,7 @@
         <option value="$PROJECT_DIR$/features/mixology.feature" />
         <option value="$PROJECT_DIR$/src/Play/MockDB/MockRepositoryFactory.php" />
         <option value="$PROJECT_DIR$/src/Play/MockDB/MockIngredientRepository.php" />
+        <option value="$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php" />
       </list>
     </option>
   </component>
@@ -617,15 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="-5.625" vertical-offset="45" max-vertical-offset="1350">
-          <folding>
-            <element signature="e#37#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/UseCaseFactorySpec.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="70" selection-start="818" selection-end="818" vertical-scroll-proportion="0.4298419" vertical-offset="0" max-vertical-offset="1012">
@@ -674,20 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsUC.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsResponse.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="34" selection-start="487" selection-end="487" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientRequest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="41" selection-start="444" selection-end="444" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="450">
@@ -697,8 +674,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientResponse.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.30991736" vertical-offset="0" max-vertical-offset="968">
+        <state line="25" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="32" selection-start="196" selection-end="196" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsUC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="45" selection-start="552" selection-end="552" vertical-scroll-proportion="0.30268595" vertical-offset="22" max-vertical-offset="990">
+          <folding>
+            <element signature="e#37#64#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
