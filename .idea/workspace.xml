@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Play/MockDB/MockIngredientRepository.php" line="19" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b840ef7-7648-47f7-886c-f584cae83776" name="Default" comment="" />
+    <ignored path="Play.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Play" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="ListIngredientsUCSpec.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="12" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="-5.625" vertical-offset="45" max-vertical-offset="1350">
+                  <folding>
+                    <element signature="e#37#64#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FeatureContext.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/features/bootstrap/FeatureContext.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="134" column="46" selection-start="3541" selection-end="3541" vertical-scroll-proportion="-34.083332" vertical-offset="1192" max-vertical-offset="2220">
+                  <folding>
+                    <element signature="e#7#190#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="UseCaseFactory.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/UseCase/UseCaseFactory.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="19" column="29" selection-start="444" selection-end="444" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="420">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mixology.feature" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/features/mixology.feature">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="47" column="14" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MockRepositoryFactory.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/MockDB/MockRepositoryFactory.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="23" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="405">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MockIngredientRepository.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/MockDB/MockIngredientRepository.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="38" column="5" selection-start="755" selection-end="755" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="810">
+                  <folding>
+                    <element signature="e#109#136#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CreateIngredientRequest.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientRequest.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="27" column="41" selection-start="444" selection-end="444" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="450">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListIngredientsUC.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsUC.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="20" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="510">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ListIngredientsResponse.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsResponse.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="32" column="34" selection-start="487" selection-end="487" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CreateIngredientResponse.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientResponse.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="25" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.30991736" vertical-offset="0" max-vertical-offset="968">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="ListIngredientsUCSpec.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="26" column="5" selection-start="694" selection-end="694" vertical-scroll-proportion="-6.8333335" vertical-offset="226" max-vertical-offset="1350">
+                  <folding>
+                    <element signature="e#37#64#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="UseCaseFactorySpec.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/UseCaseFactorySpec.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="29" column="70" selection-start="818" selection-end="818" vertical-scroll-proportion="0.4298419" vertical-offset="0" max-vertical-offset="1012">
+                  <folding>
+                    <element signature="e#37#64#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MockIngredient.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/MockDB/Entity/MockIngredient.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="15" selection-start="100" selection-end="100" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="570">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="IngredientRepository.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Play/Repository/IngredientRepository.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="19" column="29" selection-start="288" selection-end="288" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="315">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spec/Play/UseCase/CreateIngredientUCSpec.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/CreateIngredientResponse.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/CreateIngredientUC.php" />
+        <option value="$PROJECT_DIR$/src/Play/Repository/RepositoryFactory.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/Factory.php" />
+        <option value="$PROJECT_DIR$/spec/Play/UseCase/FactorySpec.php" />
+        <option value="$PROJECT_DIR$/src/MockDB/Factory.php" />
+        <option value="$PROJECT_DIR$/src/MockDB/IngredientRepository.php" />
+        <option value="$PROJECT_DIR$/src/MockDB/MockIngredientRepository.php" />
+        <option value="$PROJECT_DIR$/src/MockDB/Entity/MockIngredient.php" />
+        <option value="$PROJECT_DIR$/src/Play/Entity/Ingredient.php" />
+        <option value="$PROJECT_DIR$/src/MockDB/MockRepositoryFactory.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/RequestInterface.php" />
+        <option value="$PROJECT_DIR$/spec/Play/UseCase/CreateIngredientRequestSpec.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/CreateIngredientRequest.php" />
+        <option value="$PROJECT_DIR$/src/Play/MockDB/Entity/MockIngredient.php" />
+        <option value="$PROJECT_DIR$/src/Play/Repository/IngredientRepository.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/ListIngredientsUC.php" />
+        <option value="$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/ListIngredientsResponse.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/ListIngredientsRequest.php" />
+        <option value="$PROJECT_DIR$/spec/Play/UseCase/UseCaseFactorySpec.php" />
+        <option value="$PROJECT_DIR$/src/Play/UseCase/UseCaseFactory.php" />
+        <option value="$PROJECT_DIR$/features/bootstrap/FeatureContext.php" />
+        <option value="$PROJECT_DIR$/features/mixology.feature" />
+        <option value="$PROJECT_DIR$/src/Play/MockDB/MockRepositoryFactory.php" />
+        <option value="$PROJECT_DIR$/src/Play/MockDB/MockIngredientRepository.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="." />
+      <path value="/usr/share/php" />
+      <path value="/usr/share/pear" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="-4" />
+    <option name="width" value="1873" />
+    <option name="height" value="1205" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UseCase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MockDB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MockDB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UseCase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Play" />
+      <recent name="$PROJECT_DIR$/src/Play/Entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b840ef7-7648-47f7-886c-f584cae83776" name="Default" comment="" />
+      <created>1391427091739</created>
+      <updated>1391427091739</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="-4" width="1873" height="1205" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12301804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Play/Repository/RepositoryFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="34" selection-start="178" selection-end="178" vertical-scroll-proportion="0.10375494" vertical-offset="0" max-vertical-offset="1012">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientUC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/RequestInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="167" selection-end="167" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/Entity/Ingredient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.116054155" vertical-offset="0" max-vertical-offset="1034">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/CreateIngredientRequestSpec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="50" selection-start="259" selection-end="259" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/CreateIngredientUCSpec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1720" selection-end="1720" vertical-scroll-proportion="-35.583332" vertical-offset="46" max-vertical-offset="1080">
+          <folding>
+            <element signature="e#37#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/Repository/IngredientRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="288" selection-end="288" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/MockDB/Entity/MockIngredient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="15" selection-start="100" selection-end="100" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="254" selection-end="254" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/ListIngredientsUCSpec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="253" selection-end="253" vertical-scroll-proportion="-5.625" vertical-offset="45" max-vertical-offset="1350">
+          <folding>
+            <element signature="e#37#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/Play/UseCase/UseCaseFactorySpec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="70" selection-start="818" selection-end="818" vertical-scroll-proportion="0.4298419" vertical-offset="0" max-vertical-offset="1012">
+          <folding>
+            <element signature="e#37#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/UseCaseFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="444" selection-end="444" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/bootstrap/FeatureContext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="46" selection-start="3541" selection-end="3541" vertical-scroll-proportion="-34.083332" vertical-offset="1192" max-vertical-offset="2220">
+          <folding>
+            <element signature="e#7#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/mixology.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="14" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/MockDB/MockIngredientRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="5" selection-start="755" selection-end="755" vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="810">
+          <folding>
+            <element signature="e#109#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/MockDB/MockRepositoryFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsUC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="25" selection-start="469" selection-end="469" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/ListIngredientsResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="34" selection-start="487" selection-end="487" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="41" selection-start="444" selection-end="444" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Play/UseCase/CreateIngredientResponse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.30991736" vertical-offset="0" max-vertical-offset="968">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
