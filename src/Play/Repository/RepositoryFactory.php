@@ -1,14 +1,11 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: fee
- * Date: 03/02/14
- * Time: 14:21
- */
 
 namespace Play\Repository;
 
-
-interface RepositoryFactory {
+interface RepositoryFactory
+{
+    /**
+     * @param int $name
+     */
     public function create($name);
-} 
+}

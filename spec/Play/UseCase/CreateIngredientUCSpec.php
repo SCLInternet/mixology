@@ -20,7 +20,7 @@ class CreateIngredientUCSpec extends ObjectBehavior
     /** @var  CreateIngredientRequest */
     private $request;
 
-    function let(IngredientRepository $ingredientRepository, Ingredient $ingredient)
+    public function let(IngredientRepository $ingredientRepository, Ingredient $ingredient)
     {
         $this->beConstructedWith($ingredientRepository);
 
@@ -34,7 +34,7 @@ class CreateIngredientUCSpec extends ObjectBehavior
         $ingredient->getId()->willReturn(self::TEST_ID);
     }
 
-    function it_sets_the_name(Ingredient $ingredient)
+    public function it_sets_the_name(Ingredient $ingredient)
     {
         $this->executeUseCase();
 

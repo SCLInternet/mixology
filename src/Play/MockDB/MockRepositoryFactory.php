@@ -1,19 +1,21 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: fee
- * Date: 03/02/14
- * Time: 14:27
- */
 
 namespace Play\MockDB;
 
-
 use Play\Repository\RepositoryFactory;
 
-class MockRepositoryFactory implements RepositoryFactory {
+class MockRepositoryFactory implements RepositoryFactory
+{
+    /**
+     * @var mixed[]
+     */
     private $repos = [];
 
+    /**
+     * @param string $name
+     *
+     * @return mixed
+     */
     public function create($name)
     {
         if (!isset($this->repos[$name])) {

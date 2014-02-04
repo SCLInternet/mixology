@@ -1,29 +1,31 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: fee
- * Date: 03/02/14
- * Time: 11:58
- */
 
 namespace Play\UseCase;
 
+class CreateIngredientRequest implements RequestInterface
+{
+    /**
+     * @var string
+     */
+    private $name;
 
-class CreateIngredientRequest implements RequestInterface {
-
-    private $name ;
-
+    /**
+     * @param string $name
+     */
     public function __construct($name)
     {
         $this->name = $name;
     }
 
+    /**
+     * @return string
+     */
     public function getName()
     {
         return $this->name;
     }
 
-    static public function fromArray(array $params)
+    public static function fromArray(array $params)
     {
         return new self($params['name']);
     }

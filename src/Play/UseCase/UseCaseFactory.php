@@ -17,6 +17,7 @@ class UseCaseFactory
     public function create($name)
     {
         $className = __NAMESPACE__ . '\\' . $name . 'UC';
+
         return new $className($this->repositoryFactory->create('Ingredient'));
     }
 }
