@@ -1,23 +1,25 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: fee
- * Date: 03/02/14
- * Time: 12:42
- */
 
 namespace Play\UseCase;
 
-
-class CreateIngredientResponse {
-
+class CreateIngredientResponse
+{
+    /**
+     * @var int
+     */
     private $id;
 
+    /**
+     * @param int $id
+     */
     public function __construct($id)
     {
         $this->id = $id;
     }
 
+    /**
+     * @return int
+     */
     public function getId()
     {
         return $this->id;

@@ -1,21 +1,20 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: fee
- * Date: 03/02/14
- * Time: 11:44
- */
 
 namespace Play\Repository;
 
-
 use Play\Entity\Ingredient;
 
-interface IngredientRepository {
-
+interface IngredientRepository
+{
+    /**
+     * @return Ingredient
+     */
     public function create();
 
     public function save(Ingredient $ingredient);
 
+    /**
+     * @return Ingredient[]
+     */
     public function getAll();
 }

@@ -1,10 +1,20 @@
 <?php
 namespace Play\Entity;
 
-abstract class Ingredient {
-
+abstract class Ingredient
+{
+    /**
+     * @param string $name
+     */
     abstract public function setName($name);
-    abstract public function getName();
-    abstract public function getId();
 
+    /**
+     * @return string
+     */
+    abstract public function getName();
+
+    /**
+     * @return int
+     */
+    abstract public function getId();
 }

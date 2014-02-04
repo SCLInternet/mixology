@@ -1,33 +1,33 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: fee
- * Date: 03/02/14
- * Time: 15:34
- */
 
 namespace Play\UseCase;
 
+class ListIngredientsResponse
+{
+    /**
+     * @var mixed[][]
+     */
+    private $list = [];
 
-class ListIngredientsResponse {
-
-    private $list;
-
-    public function __construct()
-    {
-        $this->list = [];
-    }
-
+    /**
+     * @return mixed[][]
+     */
     public function getIngredients()
     {
         return $this->list;
     }
 
+    /**
+     * @param string $name
+     */
     public function addIngredientName($name)
     {
         $this->list[] = ['name' => $name];
     }
 
+    /**
+     * @return int
+     */
     public function getCount()
     {
         return count($this->list);

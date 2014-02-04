@@ -9,17 +9,17 @@ class CreateIngredientRequestSpec extends ObjectBehavior
 {
     const TEST_NAME = 'test-name';
 
-    function let()
+    public function let()
     {
         $this->beConstructedWith(self::TEST_NAME);
     }
 
-    function it_is_a_request()
+    public function it_is_a_request()
     {
         $this->shouldHaveType('Play\UseCase\RequestInterface');
     }
 
-    function it_sets_parameters()
+    public function it_sets_parameters()
     {
         $instance = $this::fromArray(['name' => 'other-test-name']);
 

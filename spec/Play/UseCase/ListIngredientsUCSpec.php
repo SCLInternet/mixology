@@ -10,8 +10,6 @@ use Prophecy\Argument;
 
 class ListIngredientsUCSpec extends ObjectBehavior
 {
-
-
     private $request;
     private $ingredientsRepository;
 
@@ -55,6 +53,4 @@ class ListIngredientsUCSpec extends ObjectBehavior
     {
         return $this->ingredientsRepository->getAll();
     }
-
-
 }
