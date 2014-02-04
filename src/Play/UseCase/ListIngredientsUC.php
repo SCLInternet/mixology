@@ -12,11 +12,7 @@ class ListIngredientsUC
     public function execute(ListIngredientsRequest $request)
     {
         $ingredients = $this->ingredientRepository->getAll();
-
-        $response = new ListIngredientsResponse();
-        foreach ($ingredients as $ingredient) {
-            $response->addIngredientName($ingredient->getName());
-        }
+        $response = new ListIngredientsResponse($ingredients);
 
         return $response;
     }
