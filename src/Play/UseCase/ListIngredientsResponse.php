@@ -8,14 +8,20 @@
 
 namespace Play\UseCase;
 
+use Play\Entity\Ingredient;
 
 class ListIngredientsResponse {
 
-    private $list;
+    private $list = [];
 
-    public function __construct()
+    /**
+     * @param Ingredient[] $ingredients
+     */
+    public function __construct(array $ingredients)
     {
-        $this->list = [];
+        foreach ($ingredients as $ingredient) {
+            $this->addIngredientName($ingredient->getName());
+        }
     }
 
     public function getIngredients()
@@ -23,13 +29,13 @@ class ListIngredientsResponse {
         return $this->list;
     }
 
-    public function addIngredientName($name)
-    {
-        $this->list[] = ['name' => $name];
-    }
-
     public function getCount()
     {
         return count($this->list);
+    }
+
+    private function addIngredientName($name)
+    {
+        $this->list[] = ['name' => $name];
     }
 }
