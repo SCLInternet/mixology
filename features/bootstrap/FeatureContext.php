@@ -11,21 +11,12 @@ use Play\Ingredient;
 use Play\MockDB\MockRepositoryFactory;
 use Play\UseCase\UseCaseFactory;
 
-//
-// Require 3rd-party libraries here:
-//
-//   require_once 'PHPUnit/Autoload.php';
-//   require_once 'PHPUnit/Framework/Assert/Functions.php';
-//
-
 /**
  * Features context.
  */
 class FeatureContext extends BehatContext
 {
     private $usecaseFactory;
-    private $usecase;
-    private $request;
     private $response;
 
     /**
@@ -37,20 +28,24 @@ class FeatureContext extends BehatContext
     public function __construct(array $parameters)
     {
         $this->usecaseFactory = new UseCaseFactory(new MockRepositoryFactory());
-        // Initialize your context here
-    }
-    /**
-     * @Given /^I have use case "([^"]*)"$/
-     */
-    public function iHaveUseCase($name)
-    {
-        $this->usecase = $this->usecaseFactory->create($name);
     }
 
     /**
-     * @Given /^I have request "([^"]*)" with:$/
+     * @When /^I execute use case "([^"]*)" with:$/
      */
-    public function iHaveRequestWith($name, TableNode $params)
+    public function iExecuteUseCaseWith($name, TableNode $params)
+    {
+        $this->response = $this->usecaseFactory
+                               ->create($name)
+                               ->execute($this->createRequest($name, $params));
+    }
+
+    /**
+     * @param string $name
+     *
+     * @return RequestInterface
+     */
+    private function createRequest($name, TableNode$params)
     {
         $fqcn = $this->buildUseCaseClassName($name, 'Request');
 
@@ -60,21 +55,13 @@ class FeatureContext extends BehatContext
             $args[$p['param']] = $p['value'];
         }
 
-        $this->request = call_user_func($fqcn . '::fromArray', $args);
-    }
-
-    /**
-     * @When /^I execute use case$/
-     */
-    public function iExecuteUseCase()
-    {
-        $this->response = $this->usecase->execute($this->request);
+        return call_user_func($fqcn . '::fromArray', $args);
     }
 
     /**
      * @Then /^I should get a response "([^"]*)" with:$/
      */
-    public function iShouldGetAWith($name, TableNode $params)
+    public function iShouldGetAResponseWith($name, TableNode $params)
     {
         $fqcn = $this->buildUseCaseClassName($name, 'Response');
 
